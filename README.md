@@ -1,7 +1,5 @@
 # love-coffee-app
 FrontEnd da aplicação love coffee
-# love-coffee-app
-
 ## Project setup
 ```
 yarn install
